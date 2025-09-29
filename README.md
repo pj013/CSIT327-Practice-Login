@@ -1,0 +1,1 @@
+echo ## Familiarizing with GIT and Python Django Project >> README.mdgit init
